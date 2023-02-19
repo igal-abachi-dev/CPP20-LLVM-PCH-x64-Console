@@ -19,6 +19,9 @@ https://learn.microsoft.com/en-us/windows/win32/learnwin32/windows-coding-conven
 cpp guidelines:
 https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 
+cs50:
+https://cs50.harvard.edu/x/2023/weeks/1/
+
 refernce:
 https://cplusplus.com/reference/
 
