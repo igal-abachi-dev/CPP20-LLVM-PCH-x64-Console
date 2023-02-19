@@ -4,7 +4,7 @@ starter project for vs2022, to write win-x64 console app:
 c++20 llvm clang (c17)
 with precompiled headers
 -------------------------
-install visual studio 2022 (https://visualstudio.microsoft.com/vs/)
+install visual studio 2022 community (https://visualstudio.microsoft.com/vs/)
 
 +windows sdk , clang compiler ,MSbuild LLVM 
 
@@ -26,6 +26,13 @@ reference:
 https://cplusplus.com/reference/
 
 https://en.cppreference.com/w/
+
+------------------------
+install on win11/10
+
+or 
+
+linux openSuse Leap (plasma qt desktop)
 
 -------------------------
 
