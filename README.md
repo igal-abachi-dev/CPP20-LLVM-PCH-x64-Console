@@ -22,7 +22,7 @@ https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 cs50:
 https://cs50.harvard.edu/x/2023/weeks/1/
 
-refernce:
+reference:
 https://cplusplus.com/reference/
 
 https://en.cppreference.com/w/
